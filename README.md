@@ -1,2 +1,2 @@
 # BGNetWorking
-oc 网络请求封装
+oc 基于NSURLSession的网络请求封装
